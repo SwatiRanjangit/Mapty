@@ -48,10 +48,6 @@ There are still a tones of possibilities to improve and refacter the application
 - Features for drawing
 - Features for rendering the map spot from A to B
 
-## Architecture
-
-![Architexture Plan](./Architecture/Mapty_Architecture_Plan.png);
-
 ### OOP
 
 - Workout class parent
